@@ -1,0 +1,66 @@
+url|disposition
+hmcshaida.ca|Not a Company
+greenliteit.com|SMB
+reztel.net|SMB
+tarasegar.com|Not a Company
+paulslavin.com|Not a Company
+rvcc.com|SMB
+motoemoto.biz|Not a Company
+juegodedamas.com|Low to No Value
+myfbo.com|Low to No Value
+xn--hla-bhl-r2a.de|Invalid Website
+sji.no|SMB
+powerplanrx.com|Invalid Website
+plantasdeleo.com|Low to No Value
+mvsmokehouse.com|Low to No Value
+marebeachwear.it|Low to No Value
+nickert-druckveredelung.de|Low to No Value
+clancyconnection.co.uk|Invalid Website
+server.nlbbs.com|Invalid Website
+e-school-teacher.com|Low to No Value
+anitadrink.com|Not a Company
+plcenterprise.com|Invalid Website
+moldtestingfloridalocal.com|Invalid Website
+brushwithart.co.uk|Not a Company
+martin-borgschulte.de|Not a Company
+breakaway-events.nl|Low to No Value
+youngnewyorkers.org|Low to No Value
+econolodge-pigeonforge.com|Low to No Value
+spjxsylc.com|Not a Company
+harmony-in-health.com|Not a Company
+solidcat.com.au|SMB
+soncotube.com|SMB
+dannyclifford.com|Not a Company
+nabsolutions.se|SMB
+aseaadvancinglifefoundation.com|SMB
+vivir-paso.com|Not a Company
+any-county.com|Invalid Website
+junctionrds.co.uk|SMB
+franconianotch.org|SMB
+tourtrends.com|Invalid Website
+r-vcr.com|Invalid Website
+ibm.com|High-Value
+hgdata.com|High-Value
+facebook.com|High-Value
+rockwellautomation.com|High-Value
+drpeppersnapplegroup.com|High-Value
+iheartmedia.com|High-Value
+tractorsupply.com|High-Value
+jbhunt.com|High-Value
+cmc.com|High-Value
+o-i.com|High-Value
+harman.com|High-Value
+baxalta.com|High-Value
+afginc.com|High-Value
+netapp.com|High-Value
+graybar.com|High-Value
+oshkoshcorporation.com|High-Value
+ameren.com|High-Value
+amark.com|High-Value
+barnesandnobleinc.com|High-Value
+dana.com|High-Value
+cbrands.com|High-Value
+lifepointhealth.net|High-Value
+zimmerbiomet.com|High-Value
+harley-davidson.com|High-Value
+pultegroupinc.com|High-Value
